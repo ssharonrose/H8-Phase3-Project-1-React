@@ -17,7 +17,7 @@ This repository is organized into two main folders: `Client` and `Server`.
 
 ## About Me
 
-I am Sharon Rose, a dedicated developer who successfully completed the Hacktiv8 Phase 2 Vue bootcamp and has now transitioned to the Phase 3 React module. With a solid foundation in frontend technologies and a focus on React.js, I'm enthusiastic about crafting visually appealing and user-friendly web applications.
+I am Sharon Rose, a dedicated professional with a background in television commercials. I am embarking on an inspiring career transition into the world of software development. Recently, I pursued knowledge and skill enhancement through a Full Stack JavaScript Bootcamp to become proficient in web development. I have a genuine passion for problem-solving and attention to detail, and I am eager to contribute my creativity and diligence to deliver innovative software solutions. My experience in advertising has taught me the value of collaboration, effective communication, and critical thinking, all of which I hope to apply as I embrace this new challenge. With a deep sense of humility and adaptability, I am excited to grow and excel as a software developer.
 
 Connect with me on:
 - GitHub: [@ssharonrose](https://github.com/ssharonrose)
